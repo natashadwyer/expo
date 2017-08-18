@@ -59,10 +59,7 @@
      <Compile Include="Assets\GoogleVR\Editor\GvrBuildProcessor.cs" />
      <Compile Include="Assets\GoogleVR\Editor\GvrEditorEmulatorEditor.cs" />
      <Compile Include="Assets\GoogleVR\Editor\GvrEditorSettings.cs" />
-     <Compile Include="Assets\GoogleVR\Editor\GvrGazeEditor.cs" />
      <Compile Include="Assets\GoogleVR\Editor\GvrMenu.cs" />
-     <Compile Include="Assets\GoogleVR\Legacy\Editor\GvrViewerEditor.cs" />
-     <Compile Include="Assets\GoogleVR\Legacy\Editor\StereoControllerEditor.cs" />
      <None Include="Assets\Lesson 1.5\Nature\CactusPack\Shaders\VertexBlend.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
      <None Include="Assets\Lesson 1.5\Nature\CactusPack\Readme.txt" />
